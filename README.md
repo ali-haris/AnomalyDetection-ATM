@@ -14,16 +14,7 @@ We use the **UCF-Crime Dataset**, available on Kaggle:
 
 ### Dataset Structure
 
-ucf-crime-dataset/
-├── Train/
-│ ├── Abuse/
-│ ├── Arrest/
-│ ├── ...
-│
-└── Test/
-├── Abuse/
-├── Normal/
-├── ...
+ucf-crime-dataset/Train, Test / Normal, Anomaly....
 
 Each folder contains **video frames** extracted from videos (e.g., `Abuse028_x264_1410.jpg`).
 
