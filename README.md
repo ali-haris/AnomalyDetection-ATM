@@ -61,10 +61,10 @@ Here are some evaluation plots:
   ![ROC Curve](img/ROC.png)
 
 - **Confusion Matrix**  
-  ![Confusion Matrix](img/confusion_matrix.png)
+  ![Confusion Matrix](img/confusion matrix.png)
 
 - **Distribution of Predicted Scores**  
-  ![Predicted Scores](img/predicted_score.png)
+  ![Predicted Scores](img/d pridicted score.png)
 
 ---
 
