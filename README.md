@@ -71,5 +71,4 @@ Here are some evaluation plots:
 ```bash
 git clone https://github.com/your-repo/anomalous-behavior-detection.git
 cd anomalous-behavior-detection
-pip install -r requirements.txt
 ```
