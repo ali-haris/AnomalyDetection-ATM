@@ -49,7 +49,7 @@ Each folder contains **video frames** extracted from videos (e.g., `Abuse028_x26
 5. **Evaluation**
 
    - Aggregate sequence predictions → video-level anomaly scores.
-   - Compute metrics: Accuracy, Precision, Recall, F1, ROC-AUC.
+   - Compute metrics: Accuracy, Precision, Recall, ROC-AUC.
    - Visualize results.
 
 ---
